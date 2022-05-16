@@ -1,10 +1,2 @@
 
-hello loster
-我在hot-fix修改了一下:：:
-我在master修改了
-我又在hot -fix修改
-masert 修改1
-fix -hot 修改1
-fix -hot 修改1
-fix -hot 修改2
 
